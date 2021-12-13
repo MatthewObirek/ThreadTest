@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libObject.a CMakeFiles/Object.dir/Object/Object.cpp.o CMakeFiles/Object.dir/Object/Person.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libObject.a
